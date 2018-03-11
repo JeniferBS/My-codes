@@ -36,3 +36,4 @@ if (number === 0) {
     console.log("odd");
 
 }
+
